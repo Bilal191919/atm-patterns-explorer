@@ -1,0 +1,6 @@
+atmId,atmName,atmCity,totalBalance,numberIncomeTransaction,numberOutcomeTransaction,totalIncome,totalOutcome,totalNumberTransaction,day,transactionTime
+101,Allied Branch,Lahore,250000,120,80,60000,40000,200,Monday,10:00
+102,Allied Independence Street,Lahore,310000,150,130,75000,70000,280,Tuesday,12:00
+103,Allied Market,Lahore,190000,90,70,45000,35000,160,Wednesday,14:00
+104,Allied Beach Park,Lahore,270000,110,90,55000,45000,200,Thursday,16:00
+105,Allied Branch-1,Lahore,330000,160,140,80000,72000,300,Friday,18:00
